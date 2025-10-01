@@ -28,7 +28,7 @@ int main() {
         
         //puts(string);
         printf("%d\n", talking_pair);
-        
+         
         t--;
     }
 }
